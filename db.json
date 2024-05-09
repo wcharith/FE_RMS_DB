@@ -1,0 +1,491 @@
+{
+  "customers": [
+    {
+      "id": "1234",
+      "fullName": "kamal",
+      "identifier": "11117",
+      "address": "kandy road, kurunegala",
+      "email": "kamal@gmail.com",
+      "contactNo": "0734474732"
+    },
+    {
+      "id": "22",
+      "fullName": "hasi ni",
+      "identifier": "111",
+      "address": "uom,motatuwa7",
+      "email": "hasinichamodi4@gmail.com",
+      "contactNo": "111"
+    },
+    {
+      "id": "14",
+      "fullName": "saw",
+      "identifier": "zxf",
+      "address": "vvc",
+      "email": "cvgn@gmail.com",
+      "contactNo": "zxv"
+    },
+    {
+      "id": "14789635",
+      "fullName": "Ishara J",
+      "identifier": "214089X",
+      "address": "No31,",
+      "email": "Sup@gmail.com",
+      "contactNo": "017485946"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "companyCode": "554",
+      "companyName": "ABC1",
+      "description": "This is a CRUD_22",
+      "country": "Sri Lanka",
+      "currency": "SLR",
+      "address01": "No1",
+      "address02": "No2",
+      "defaultCompany": true
+    },
+    {
+      "id": "3",
+      "companyCode": "12",
+      "companyName": "ABC2",
+      "description": "This is Abc2 group",
+      "country": "China",
+      "currency": "JPY",
+      "address01": "No3",
+      "address02": "No4",
+      "defaultCompany": false
+    },
+    {
+      "id": "4",
+      "companyCode": "1245",
+      "companyName": "ABC3",
+      "description": "This is Abc3 group",
+      "country": "Sri Lanka",
+      "currency": "SLR",
+      "address01": "No5",
+      "address02": "No6",
+      "defaultCompany": false
+    },
+    {
+      "id": "c420",
+      "companyCode": "65",
+      "companyName": "ABC5",
+      "description": "This is Abc5 group",
+      "country": "France",
+      "currency": "USD",
+      "address01": "No9",
+      "address02": "",
+      "defaultCompany": ""
+    },
+    {
+      "id": "f822",
+      "companyCode": "1654",
+      "companyName": "Supun1",
+      "description": "Hi supun",
+      "country": "Sri Lanka",
+      "currency": "USD",
+      "address01": "@2,a1",
+      "address02": "@1,a23",
+      "defaultCompany": false
+    },
+    {
+      "id": "bcf2",
+      "companyCode": "11223344",
+      "companyName": "My Company1",
+      "description": "Integration test",
+      "country": "Australia",
+      "currency": "AUD",
+      "address01": "Address1",
+      "address02": "Address2",
+      "defaultCompany": true
+    },
+    {
+      "id": "5964",
+      "companyCode": "44588666",
+      "companyName": "ddff",
+      "description": "45457",
+      "country": "United States",
+      "currency": "JPY",
+      "address01": "fgghg",
+      "address02": "fgh",
+      "defaultCompany": true
+    },
+    {
+      "id": "15cb",
+      "companyCode": "3874",
+      "companyName": "ACDS X",
+      "description": "My Test",
+      "country": "China",
+      "currency": "GBP",
+      "address01": "11N1",
+      "address02": "N11Q",
+      "defaultCompany": true
+    }
+  ],
+  "Roles": [
+    {
+      "id": "b678",
+      "rolecode": "5656",
+      "rolename": "vcvc",
+      "privileges": [
+        "viewAccess",
+        "deleteAccess"
+      ]
+    },
+    {
+      "id": "3c71",
+      "rolecode": "78",
+      "rolename": "nb",
+      "privileges": [
+        "updateAccess"
+      ]
+    },
+    {
+      "id": "c5f8",
+      "rolecode": "67676",
+      "rolename": "dddddddd",
+      "privileges": [
+        "createAccess"
+      ]
+    },
+    {
+      "id": "f1d0",
+      "rolecode": "78nmnm",
+      "rolename": "m,mnmn",
+      "privileges": [
+        "viewAccess"
+      ]
+    },
+    {
+      "id": "521f",
+      "rolecode": "nn",
+      "rolename": "bn",
+      "privileges": [
+        "createAccess"
+      ]
+    },
+    {
+      "id": "ce66",
+      "rolecode": "666",
+      "rolename": "nn",
+      "privileges": [
+        "createAccess"
+      ]
+    },
+    {
+      "id": "6db4",
+      "rolecode": "7890000",
+      "rolename": "Test 20000000",
+      "privileges": [
+        "updateAccess",
+        "viewAccess"
+      ]
+    },
+    {
+      "id": "8676",
+      "rolecode": "456",
+      "rolename": "bnhj",
+      "privileges": [
+        "createAccess",
+        "viewAccess",
+        "deleteAccess"
+      ]
+    },
+    {
+      "id": "e4b3",
+      "rolecode": "454546",
+      "rolename": "rerwqwqwqw",
+      "privileges": [
+        "updateAccess",
+        "createAccess"
+      ]
+    },
+    {
+      "id": "061e",
+      "rolecode": "77878",
+      "rolename": "tesrdaw",
+      "privileges": [
+        "createAccess",
+        "deleteAccess"
+      ]
+    },
+    {
+      "id": "a93c",
+      "rolecode": "42332222",
+      "rolename": "dddddddddddddddddddd",
+      "privileges": [
+        "createAccess",
+        "updateAccess"
+      ]
+    },
+    {
+      "id": "3ce4",
+      "rolecode": "3424",
+      "rolename": "gggggggggggggggggggg",
+      "privileges": [
+        "createAccess",
+        "viewAccess",
+        "updateAccess"
+      ]
+    }
+  ],
+  "timeslotsitem": [
+    {
+      "id": "5fa5",
+      "startTime": "23:01",
+      "endTime": "07:00",
+      "itemId": "3f85"
+    },
+    {
+      "id": "5ff8",
+      "startTime": "18:00",
+      "endTime": "19:01",
+      "itemId": "3f85"
+    },
+    {
+      "id": "fcb2",
+      "startTime": "18:01",
+      "endTime": "19:01",
+      "itemId": "1ceb"
+    },
+    {
+      "id": "632c",
+      "startTime": "19:01",
+      "endTime": "21:01",
+      "itemId": "1ceb"
+    }
+  ],
+  "itemcreation": [
+    {
+      "id": "6641",
+      "itemId": "1001",
+      "itemName": "gym",
+      "timeSlotType": "Defined",
+      "noOfSlots": "5",
+      "slotDurationType": "Customized",
+      "durationPerSlot": "1",
+      "noOfReservations": "2",
+      "capacity": "50",
+      "reservationGroup": "1ceb"
+    },
+    {
+      "id": "3f85",
+      "itemId": "1002",
+      "itemName": "table",
+      "timeSlotType": "Defined",
+      "noOfSlots": 5,
+      "slotDurationType": "Customized",
+      "durationPerSlot": 1,
+      "noOfReservations": 10,
+      "capacity": 50,
+      "reservationGroup": "3e7e"
+    },
+    {
+      "id": "6f68",
+      "itemId": "1003",
+      "itemName": "cricket",
+      "timeSlotType": "Flexible",
+      "noOfSlots": 50,
+      "slotDurationType": "Customized",
+      "durationPerSlot": 12,
+      "noOfReservations": 50,
+      "capacity": 100,
+      "reservationGroup": "4372"
+    },
+    {
+      "id": "c182",
+      "itemId": "1004",
+      "itemName": "xyz",
+      "timeSlotType": "Flexible",
+      "noOfSlots": null,
+      "slotDurationType": "",
+      "durationPerSlot": null,
+      "noOfReservations": 12,
+      "capacity": 12,
+      "reservationGroup": "3e7e"
+    }
+  ],
+  "users": [
+    {
+      "id": "3885",
+      "userID": "hasinichamodi4@gmail.com",
+      "firstName": "hasinnii",
+      "lastName": "ni",
+      "defaultCompany": "ABC2",
+      "designation": "reservaiton officer",
+      "primaryRole": "nb",
+      "email": "hasinichamodi4@gmail.com",
+      "password": "qwer@12345",
+      "validFrom": "2024-04-23T00:13",
+      "validTill": "2024-04-25T00:14",
+      "companies": [],
+      "roles": [
+        "vcvc"
+      ]
+    },
+    {
+      "id": "e478",
+      "userID": "hasinichamodi54@gmail.com",
+      "firstName": "hasi",
+      "lastName": "ni",
+      "defaultCompany": "ABC1",
+      "designation": "Receptionist",
+      "primaryRole": "vcvc",
+      "email": "hasinichamodi54@gmail.com",
+      "password": "qwer@!2345",
+      "validFrom": "2024-04-02T11:29",
+      "validTill": "2024-04-05T11:29",
+      "companies": [],
+      "roles": []
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "Cname": "Arab Emirates (UAE)"
+    },
+    {
+      "id": "2",
+      "Cname": "Australia"
+    },
+    {
+      "id": "3",
+      "Cname": "China"
+    },
+    {
+      "id": "4",
+      "Cname": "France"
+    },
+    {
+      "id": "5",
+      "Cname": "Germany"
+    },
+    {
+      "id": "6",
+      "Cname": "India"
+    },
+    {
+      "id": "7",
+      "Cname": "Japan"
+    },
+    {
+      "id": "8",
+      "Cname": "Qatar"
+    },
+    {
+      "id": "9",
+      "Cname": "Russia"
+    },
+    {
+      "id": "10",
+      "Cname": "Saudi Arabia"
+    },
+    {
+      "id": "11",
+      "Cname": "Sri Lanka"
+    },
+    {
+      "id": "12",
+      "Cname": "United Kingdom"
+    },
+    {
+      "id": "13",
+      "Cname": "United States"
+    }
+  ],
+  "currencies": [
+    {
+      "id": "1",
+      "C_name": "SLR"
+    },
+    {
+      "id": "2",
+      "C_name": "USD"
+    },
+    {
+      "id": "3",
+      "C_name": "EUR"
+    },
+    {
+      "id": "4",
+      "C_name": "AUD"
+    },
+    {
+      "id": "5",
+      "C_name": "GBP"
+    },
+    {
+      "id": "6",
+      "C_name": "JPY"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "8327",
+      "reservationID": "f0a0y9",
+      "customerID": "hasinichamodi4@gmail.com",
+      "group": "restaurant",
+      "itemID": "3f85",
+      "date": "2024-04-03",
+      "noOfPeople": 5,
+      "time1": "2024-04-03T23:01",
+      "time2": "2024-04-04T07:00"
+    },
+    {
+      "id": "e361",
+      "reservationID": "zvqsiv",
+      "customerID": "hasinichamodi4@gmail.com",
+      "group": "restaurant",
+      "itemID": "3f85",
+      "date": "2024-04-17",
+      "noOfPeople": 4,
+      "time1": "2024-04-17T23:01",
+      "time2": "2024-04-18T07:00"
+    },
+    {
+      "id": "a377",
+      "reservationID": "t36h93",
+      "customerID": "hasinichamodi4@gmail.com",
+      "group": "restaurant",
+      "itemID": "3f85",
+      "date": "2024-04-17",
+      "noOfPeople": 5,
+      "time1": "2024-04-17T23:01",
+      "time2": "2024-04-18T07:00"
+    },
+    {
+      "id": "e236",
+      "reservationID": "q887vi",
+      "customerID": "kamal@gmail.com",
+      "group": "cricket ground",
+      "itemID": "6f68",
+      "date": "",
+      "noOfPeople": 45,
+      "time1": "2024-04-04T10:03",
+      "time2": "2024-04-05T10:03"
+    }
+  ],
+  "groupcreation": [
+    {
+      "id": "3e7e",
+      "groupId": "1006",
+      "groupName": "restaurant"
+    },
+    {
+      "id": "4372",
+      "groupId": "1007",
+      "groupName": "cricket ground"
+    },
+    {
+      "id": "1ceb",
+      "groupId": "1011",
+      "groupName": "sports"
+    },
+    {
+      "id": "d082",
+      "groupId": "1012",
+      "groupName": "New"
+    }
+  ]
+}
